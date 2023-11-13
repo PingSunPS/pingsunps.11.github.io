@@ -1,4 +1,4 @@
-![image](https://github.com/PingSunPS/pingsunps.github.io/assets/85091377/4ed6fa6c-acdd-48b9-b6ea-f78f79a4b10f)# IT Graduate
+# IT Graduate
 
 ## Education
 * Master of Information Technology Systems
