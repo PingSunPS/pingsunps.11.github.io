@@ -1,4 +1,4 @@
-# IT Graduate
+![image](https://github.com/PingSunPS/pingsunps.github.io/assets/85091377/4ed6fa6c-acdd-48b9-b6ea-f78f79a4b10f)# IT Graduate
 
 ## Education
 * Master of Information Technology Systems
@@ -37,20 +37,22 @@ Supply Chain Planner Assistant at Olin Corporation Shanghai Branch
 ## Projects
 Inspiration Australia Program
 - Nov 2022 – Dec 2022
-- Australian Government | National Foundation for Australia – China Relations| Practera
+- Australian Government & National Foundation for Australia – China Relations & Practera
 - It was a 3-week virtual teamwork experience as a consultant in a team of 5. Completed an industry report for a real-world client. We used Microsoft Teams, Google Docs as collaborative platforms to demonstrate and develop the employability skills: Service Orientated, Problem Solver, Innovative.
 
 UC Lead: Community Leadership Program 2022 
 - Sep 2022 - Oct 2022
-- University of Canberra | Campus Consultancy 
+- University of Canberra & Campus Consultancy 
 - A 4-week team project (in person & online) and completed 5 project management workshops. We completed a project in partnership with UC Student Equity and Participation. We helped them identify the root causes of challenges, ideate innovative solutions, and deliver suggestions to organizations to help them grow. 
 
 IT Infrastructure Design
 - Aug 2022 – Oct 2022
+- Group Project for Unit: System and Network Administration
 - As part of a team of three, our primary task was designed IT infrastructure for a small business using Oracle VM VirtualBox to mimic the computer systems for the IT infrastructure and implemented it on 1 Cisco RV340 Routers and 2 Cisco Catalyst 3560-CX Series Switches 
  
 Website Design and Implement
 - Aug 2021 – Oct 2021
+- Individual Project for Unit: Web Design and Programming
 - It was an individual task of writing the coding and script for the website. I designed and implemented a responsive website on the topic of Industry 4.0 
  
 
